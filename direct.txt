@@ -2,5 +2,3 @@
 +.windows.com
 +.bing.com
 +.microsoft.net
-+.micrt.com
-+.fsdfdsfsdfdsf.com
