@@ -1,5 +1,1 @@
-+.microsoft.com
-+.windows.com
-+.bing.com
-+.microsoft.net
-+.msedge.net
+
